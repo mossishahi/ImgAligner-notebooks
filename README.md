@@ -1,2 +1,2 @@
 # ImgAligner-notebooks
-notebooks correspond to https://github.com/mossishahi/ImgAligner.git
+notebooks corresponding to https://github.com/mossishahi/ImgAligner.git
